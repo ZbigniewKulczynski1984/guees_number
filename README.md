@@ -1,1 +1,6 @@
-# guess_number
+# Guess_number
+
+## Build with
+- HTML
+- CSS
+- JS
